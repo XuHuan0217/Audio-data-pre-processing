@@ -4,6 +4,7 @@ Audio pre-processing, especially, signal preprocessing related topics is not wha
 But I am happy to learn new things, I used to learn FFT when I am a undergraduate student but never really use it. Redo the FFT part givea me some inspiration about how NN learns new features, you can find it on fft notebook. Mel-scale is completely new to me.
 
 And I am not sure the connection between part 1 and 2, as I dont know how the 41 wav files and meta data can bu used further.
+
 -----
 ### 0. data collection
 - requests+beautifulsoup analyze soundwave website and extract necessory metadata including track_name,author,genre,play_count,download_count,comments_count,like_count,audio_url
