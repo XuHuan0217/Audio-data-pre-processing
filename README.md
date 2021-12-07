@@ -8,6 +8,7 @@ And I am not sure the connection between part 1 and 2, as I dont know how the 41
 ### 0. data collection
 - requests+beautifulsoup analyze soundwave website and extract necessory metadata including track_name,author,genre,play_count,download_count,comments_count,like_count,audio_url
 - soundwave api for automatic audio downloading.
+- ./data folder is too big, I will upload to Google drive and share later
 ### 1. audimetadata
 - show meta data as request.
 ### 2. fft
@@ -16,7 +17,7 @@ And I am not sure the connection between part 1 and 2, as I dont know how the 41
 - FFT_vectorized: non-recurisive vetorized FFT
 - NN DFT: NN based DFT
 - Different domain visualization
-contains animation, if you cannot open on github please download or check the [colab version](https://colab.research.google.com/drive/1lrnqE2ThNFOBQvA87q1Pb2oPqBFI6uoT?usp=sharing).
+contains animation, if you cannot open on github please download or check the [colab version](https://colab.research.google.com/drive/14lrHSLRVrAMMyvkvXmMnZ8CJ4gfyL1p9?usp=sharing).
 ### 3. Spectrogram and mel-scale
 - STFT
 - Spectrogram with FFT and STFT
